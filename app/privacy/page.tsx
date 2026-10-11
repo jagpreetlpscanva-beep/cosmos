@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function Privacy(){return <main className="wrap section"><Link href="/">← Cosmos</Link><h1 style={{fontFamily:'Georgia,serif',fontWeight:400}}>Privacy policy</h1><p style={{color:'var(--muted)',lineHeight:1.8}}>This is a placeholder policy and must be reviewed and completed by the restaurant before launch. Specify what customer data is collected, why it is used, retention periods, processors, and contact details.</p></main>}
